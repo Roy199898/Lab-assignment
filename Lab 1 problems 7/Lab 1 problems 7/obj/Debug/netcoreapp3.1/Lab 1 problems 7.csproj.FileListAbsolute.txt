@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\bin\Debug\netcoreapp3.1\Lab 1 problems 7.exe
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\bin\Debug\netcoreapp3.1\Lab 1 problems 7.deps.json
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\bin\Debug\netcoreapp3.1\Lab 1 problems 7.runtimeconfig.json
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\bin\Debug\netcoreapp3.1\Lab 1 problems 7.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\bin\Debug\netcoreapp3.1\Lab 1 problems 7.dll
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\bin\Debug\netcoreapp3.1\Lab 1 problems 7.pdb
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\obj\Debug\netcoreapp3.1\Lab 1 problems 7.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\obj\Debug\netcoreapp3.1\Lab 1 problems 7.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\obj\Debug\netcoreapp3.1\Lab 1 problems 7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\obj\Debug\netcoreapp3.1\Lab 1 problems 7.dll
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\obj\Debug\netcoreapp3.1\Lab 1 problems 7.pdb
+C:\Users\Administrator\source\repos\Lab 1 problems 7\Lab 1 problems 7\obj\Debug\netcoreapp3.1\Lab 1 problems 7.genruntimeconfig.cache
